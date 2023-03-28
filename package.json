@@ -1,0 +1,25 @@
+{
+  "name": "object-like-map",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Use maps as if they were objects, using object iternal methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaUnknown/object-like-map.git"
+  },
+  "keywords": [
+    "map",
+    "object",
+    "proxy"
+  ],
+  "author": "ThaUnknown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThaUnknown/object-like-map/issues"
+  },
+  "homepage": "https://github.com/ThaUnknown/object-like-map#readme"
+}
